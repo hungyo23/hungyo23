@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About me
+### I'm south korea guy.
 <!--
 **hungyo23/hungyo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
